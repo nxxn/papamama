@@ -1,0 +1,7 @@
+lv:
+  spree:
+    returns: "Returns"
+    option_type_placeholder: "Option Type Placeholder"
+    tags_placeholder: "Tags Placeholder"
+    i18n:
+      translations: "Translations"
